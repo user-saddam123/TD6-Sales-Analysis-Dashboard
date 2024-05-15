@@ -1,7 +1,7 @@
 # TD6-Sales-Analysis-Dashboard
 
 ### Created and Analyzed by: Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-### Live Dashboard At Novypro [Link](https://project.novypro.com/lThvpw)
+### Live Dashboard At Novypro [Link](https://project.novypro.com/wAFwaq)
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
